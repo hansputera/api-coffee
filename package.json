@@ -1,0 +1,15 @@
+{
+  "name": "belajar-coffe",
+  "version": "1.0.0",
+  "description": "Belajar Coffee Script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hanif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "superagent": "^6.1.0"
+  }
+}
